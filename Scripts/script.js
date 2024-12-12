@@ -5,7 +5,7 @@ const main = document.querySelector('main');
 const softwareList = [
     {
         name: 'Google Chrome',
-        image: 'https://www.google.com/chrome/assets/common/images/chrome-logo.png',
+        image: 'https://projectguy100.github.io/Actinium/Assets/chrome_logo.jpg',
         description: 'A fast and secure web browser',
         downloadLink: 'https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7B9A2F5F5F-5F5F-5F5F-5F5F-5F5F5F5F5F5F%7D%26lang%3Den%26browser%3D4%26usagestats%3D1%26appguid%3D%7BNONCE%7D%26dguid%3D%7BNONCE%7D%26brand%3DGCEB/dl/chrome/install/GoogleChromeEnterpriseBundle.zip',
     },
